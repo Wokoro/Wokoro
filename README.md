@@ -11,7 +11,7 @@ Looking forward to contributing to your next big idea, I am just a mail away ðŸ˜
 <br>
 <br>
 
-LinkedIn: [linkend](https://www.linkedin.com/in/douye-samuel-0068a812b/) <br>
+LinkedIn: [linkedin](https://www.linkedin.com/in/douye-samuel-0068a812b/) <br>
 
 Email: wokorosamuel@yahoo.com <br>
 <br>
