@@ -2,7 +2,7 @@ Hi there 👋, Wokoro Douye Samuel here.
 
 <br>
 
-I am a fullstack software developer, who has a demostrated history of building scalable and secure software systems, with a variety of teams and software software development environments.
+I am a fullstack software developer, who has a demostrated history of building scalable and secure software systems, with a variety of teams and software  development environments.
 
 
 <br>
